@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
  * main - Entry point
- * Description: 'A program that prints all possible combinations of two two-digit numbers'.
+ * Description 'A  program that prints all possible combinations of two two-digit numbers'
+ * Return 0 (Success)
  */
 int main(void)
 {
