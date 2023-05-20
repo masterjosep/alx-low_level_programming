@@ -4,7 +4,7 @@
  * Description: 'print numbers of base 10'
  * Return: 0 (success)
  */
-int main ()
+int main()
 {
 	int n;
 
