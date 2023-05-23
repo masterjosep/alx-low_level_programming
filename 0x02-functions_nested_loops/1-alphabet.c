@@ -5,6 +5,7 @@
  * Description: 'A a function that prints the alphabet, in lowercase'
  * Return:void
  */
+
 void print_alphabet(void)
 {
 char ch;
