@@ -1,12 +1,8 @@
 #include "main.h"
 /**
- * function that convert a string to an integer.
- * @i: integer to be converted
- * @d: integer to be converted
- * @n: integer to be converted
- * @len: integer to be converted
- * @f: integer to be converted
- * @digit: integer to be converted
+ * _atoi - converts a string to an integer
+ * @a: string to be converted
+ *
  * Return: the int converted from the string
  */
 int _atoi(char *s)
@@ -42,4 +38,6 @@ int _atoi(char *s)
 	}
 	if (f == 0)
 		return (0);
+
+	return (n);
 }
